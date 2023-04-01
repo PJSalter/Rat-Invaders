@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Space Invaders</title>
+    <link rel="stylesheet" href="styles.css" />
+  <script defer src="bundle.js"></script></head>
+  <body>
+    <div class="wrap">
+      <header>Rat Invaders</header>
+      <div class="game-wrapper">
+        <div class="main"></div>
+        <div class="lose">
+          <h1>GAME OVER</h1>
+          <h2>
+            Me-ouch! The mice have finally succeeded in their nefarious plan to
+            invade your territory and infest your slumber nest with their cheesy
+            little feet. Despite your valiant efforts to fend them off, their
+            sheer numbers and relentless attacks proved too much for even a
+            mighty feline like you. Your territory has fallen to the rodent
+            horde, and they're throwing a cheesy victory party in your slumber
+            nest as we speak. Don't worry, though--you'll have your revenge soon
+            enough. Time to start planning your epic comeback!
+          </h2>
+          <button class="btn" onclick="window.location.reload()">
+            Restart
+          </button>
+        </div>
+        <div class="win">
+          <h1>YOU WIN!</h1>
+          <h2>
+            Looks like the mice didn't know who they were messing with when they
+            tried to invade your territory, oh mighty feline! You clawed your
+            way to victory and sent them running with their tails between their
+            legs (and cheese in their paws). Your slumber nest is safe once
+            again, thanks to your ferocious fighting skills and quick reflexes.
+            Congratulations on being the top cat in town!
+          </h2>
+          <button class="btn" onclick="window.location.reload()">
+            Restart
+          </button>
+        </div>
+      </div>
+
+      <footer></footer>
+    </div>
+    <script src="game.ts"></script>
+  </body>
+</html>
