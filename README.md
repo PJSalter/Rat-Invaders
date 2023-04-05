@@ -1,5 +1,7 @@
 # Rat-Invaders
 
+## Game controls:
+
 ##### The code defines constants and variables to store the state of the game, including the positions of the Cat and the Rats, whether the player is moving or shooting the cotton wall, and various cooldown times.
 
 ##### There are also functions to create and update the player's Cat, the Rats, and the Cotton wall that the player throws.
