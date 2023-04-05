@@ -10,13 +10,13 @@
 
 ##### The game has a collision detection system that checks if the player's Cotton Wall or the Rat's cheese has hit the player's Cat or one of the Rat's.
 
-# Getting started:
+## Getting started:
 
 - Install node >= 16.20.0
 - Install [nvm] (https://github.com/nvm-sh/nvm#installing-and-updating) to easily switch between your node versions.
 - Install [yarn] (https://classic.yarnpkg.com/en/docs/install) v1.22.19
 
-Development:
+## Development:
 
 - Run yarn to install dependencies
 - Run yarn start for webpack to compile successfully
