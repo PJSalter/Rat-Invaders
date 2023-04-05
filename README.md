@@ -2,6 +2,10 @@
 
 ## Game controls:
 
+- Use the arrow keys (LEFT, RIGHT) to move the cat and dodge the cheese.
+- (moving rigth to the far end of the board from the left and right side may cause the cat to get stuck) - Just to advise I still need to fix this bug.
+- Use the spacebar to shoot balls of wool yarn at the rats before they hit you with cheese!
+
 ##### The code defines constants and variables to store the state of the game, including the positions of the Cat and the Rats, whether the player is moving or shooting the cotton wall, and various cooldown times.
 
 ##### There are also functions to create and update the player's Cat, the Rats, and the Cotton wall that the player throws.
