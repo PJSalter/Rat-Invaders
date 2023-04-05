@@ -15,3 +15,9 @@
 - Install node >= 16.20.0
 - Install [nvm] (https://github.com/nvm-sh/nvm#installing-and-updating) to easily switch between your node versions.
 - Install [yarn] (https://classic.yarnpkg.com/en/docs/install) v1.22.19
+
+Development:
+
+- Run yarn to install dependencies
+- Run yarn start for webpack to compile successfully
+- In the scr folder, locate the index.html file and open with live server to play the game in your browser
