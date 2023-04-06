@@ -2,9 +2,9 @@
 
 ## 😸 Game controls:
 
-- Use the arrow keys ([LEFT], [RIGHT]) to move the 🐈 cat and dodge the cheese. 🧀
-- (moving rigth to the far end of the board from the left and right side may cause the cat to get stuck) - Just to advise I still need to fix this bug.
-- Use the [spacebar] to shoot balls of wool yarn 🧶 at the 🐀 rats before they hit you with cheese! 🧀
+- Use the `arrow keys` (`LEFT`, `RIGHT`) to move the 🐈 cat and dodge the cheese. 🧀
+- (moving rigth to the far end of the board from the `left` and `right` side may cause the cat to get stuck) - Just to advise I still need to fix this bug.
+- Use the `spacebar` to shoot balls of wool yarn 🧶 at the 🐀 rats before they hit you with cheese! 🧀
 
 ## About
 
@@ -20,12 +20,12 @@
 
 ## Getting started:
 
-- Install node >= 16.20.0
-- Install [nvm] (https://github.com/nvm-sh/nvm#installing-and-updating) to easily switch between your node versions.
-- Install [yarn] (https://classic.yarnpkg.com/en/docs/install) v1.22.19
+- Install `node >= 16.20.0`
+- Install `nvm` (https://github.com/nvm-sh/nvm#installing-and-updating) to easily switch between your node versions.
+- Install `yarn` (https://classic.yarnpkg.com/en/docs/install) v1.22.19
 
 ## Development:
 
-- Run yarn to install dependencies
-- Run yarn start for webpack to compile successfully
-- In the scr folder, locate the index.html file and open with live server to play the game in your browser
+- Run `yarn` to install dependencies
+- Run `yarn` start for webpack to compile successfully
+- In the scr folder, locate the `index.html` file and open with live server to play the game in your browser
