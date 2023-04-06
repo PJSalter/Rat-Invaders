@@ -26,6 +26,6 @@
 
 ## Development:
 
-- Run `yarn` to install dependencies
-- Run `yarn` start for webpack to compile successfully
+- Run `yarn` to `install dependencies`
+- Run `yarn start` for `webpack` to compile successfully
 - In the `scr folder`, locate the `index.html` file and open with `live server` to play the game in your `browser`
